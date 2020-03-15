@@ -6,5 +6,6 @@ module.exports = {
         javascriptEnabled: true,
       },
     },
+    `gatsby-plugin-layout`
   ]
 }
