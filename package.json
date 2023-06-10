@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "antd": "^4.0.1",
-    "gatsby": "^2.19.7",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-layout": "^1.1.22",
     "gatsby-plugin-less": "^3.0.19",
     "less": "^3.11.1",
